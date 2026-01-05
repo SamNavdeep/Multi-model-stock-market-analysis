@@ -1,1 +1,5 @@
-
+Model used : ARIMA model(Auto regressive Integration Moving average)
+Model params : p=1, d=1, q=1
+MSE loss : 0.0031
+MAE loss : 0.0423
+RMSE loss : 0.0555
