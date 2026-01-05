@@ -1,0 +1,5 @@
+Model used: ARIMA, LSTM
+ARIMA params : p=5, d=1, q=0
+LSTM params : learning rate =0.001, hidden layer size =64, epochs =200
+ARIMA eval metrics : MSE: 2741540.0378, MAE: 1411.3619, RMSE: 1655.7596
+LSTM eval metrics : MSE: 320650.0, MAE: 468.9287, RMSE: 566.2596
